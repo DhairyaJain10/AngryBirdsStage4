@@ -75,3 +75,4 @@ function mouseDragged(){
 function mouseReleased(){
     slingshot.fly();
 }
+//gum
